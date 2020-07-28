@@ -1,5 +1,8 @@
 # Classifying Emotion in Speech | ML VU 2020
 
+## Final Report
+https://docs.google.com/document/d/1bdj7WrCRFR4WEAETifFoRP-b1F5GU5dI99nbkV0yrrU/edit?usp=sharing
+
 ## Dataset
 
 [Full dataset here](https://zenodo.org/record/1188976#.XlaMFZNKjOQ)
